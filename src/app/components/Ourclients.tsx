@@ -6,7 +6,7 @@ const testimonials = [
   {
     name: 'Nathan Harper',
     title: 'Software Developer',
-    image: '/client.Avif',
+    image: '/client.avif',
     text: "Buying my vacation home was surprisingly easy. Sophia really knew her stuff and made the whole process super smooth. I didn’t have to worry about a thing."
   },
   {
