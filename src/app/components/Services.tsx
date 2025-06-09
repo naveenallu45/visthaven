@@ -9,21 +9,21 @@ const properties = [
     title: "Luxury Residences",
     description:
       "Experience unparalleled elegance in our luxury residences, featuring exquisite design, premium amenities, and prime locations for the most discerning tastes.",
-    image: "/services1.jpg.Avif",
+    image: "/services1.jpg",
   },
   {
     id: 2,
     title: "Eco Green Buildings",
     description:
       "Sustainable and innovative green building solutions for eco-conscious living and a greener future.",
-    image: "/services2.Avif",
+    image: "/services2.jpg",
   },
   {
     id: 3,
     title: "Unique Vacation Homes",
     description:
       "Exclusive vacation homes with breathtaking views and premium comforts, perfect for relaxation.",
-    image: "/services3.Avif"
+    image: "/services3.jpg"
   },
 ];
 
